@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thimble Sample</title>
+    <link rel="stylesheet" type="text/css" href="stylee.css">
+  </head>
+  <body>
+<h1> Welcome to </h1>
+    <h1>"GirlsGetReady"</h1>
+    <p>
+      This app is built to give girls with natural curly hair an idea on cute hairstyles to wear according to their outfit for the day!
+      <br>
+      <br>
+      Jumpsuits 
+      <br>
+      <a href="index.html">Jumpsuits</a>
+      <br> 
+      <br>
+      Tight Fitted Dresses <br> 
+      <br>
+      <a href="index2.html">Tight Fitted Dress</a>
+      <br>
+      <br>
+       Tank Tops 
+      <br> 
+      <a href="index3.html">Tank Tops</a>
+      <br>
+      <br>
+      Crop Tops 
+      <br>
+      <a href="index4.html">Crop Tops</a>
+      <br>
+      <br>
+      Off The Shoulder
+      <br>
+      <a href="index5.html">Off The Shoulder </a>
+      <br>
+      <br>
+      Long Sleeve
+      <br>
+      <a href="index6.html">Long Sleeve</a>
+      <br>
+      <br>
+      Short Sleeve
+      <br>
+      <a href="index7.html">Short Sleeve</a>
+      <br>
+      <br>
+      Jean Jackets
+      <br>
+      <a href="index8.html">Jean Jacket</a>
+    </p>
+  </body>
+</html>
